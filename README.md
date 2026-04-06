@@ -1,2 +1,2 @@
 # zuul-test
-Nokia Zuul CI GitHub integration test repo.
+Nokia Zuul CI GitHub integration test repo.25
